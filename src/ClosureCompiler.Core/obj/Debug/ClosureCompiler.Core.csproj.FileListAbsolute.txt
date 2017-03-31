@@ -1,5 +1,0 @@
-C:\Projetos\Marlon\ClosureCompiler-dotnet\src\ClosureCompiler.Core\bin\Debug\ClosureCompiler.Core.dll
-C:\Projetos\Marlon\ClosureCompiler-dotnet\src\ClosureCompiler.Core\bin\Debug\ClosureCompiler.Core.pdb
-C:\Projetos\Marlon\ClosureCompiler-dotnet\src\ClosureCompiler.Core\obj\Debug\ClosureCompiler.Core.csprojResolveAssemblyReference.cache
-C:\Projetos\Marlon\ClosureCompiler-dotnet\src\ClosureCompiler.Core\obj\Debug\ClosureCompiler.Core.dll
-C:\Projetos\Marlon\ClosureCompiler-dotnet\src\ClosureCompiler.Core\obj\Debug\ClosureCompiler.Core.pdb
