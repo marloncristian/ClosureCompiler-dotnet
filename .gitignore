@@ -47,25 +47,17 @@ test/test-assemblies
 
 # published
 published
-src/Nextel.Web/Nextel.Web.Publish.xml
 *Publish.xml
 
 #mono files
 *.pidb
 *.resources
-!Nextel.Resources
 
 # BeyondCompare merge files
 *.orig
 
 #Nuget packages
 src/packages
-
-DataBaseMigration/tools
-DataBaseMigration/*.dll
-
-Nextel-DeployPackage.zip
-temp
 
 #Local Files
 src/.vs
