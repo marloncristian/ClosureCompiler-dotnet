@@ -1,0 +1,74 @@
+# complied files
+[Oo]bj
+[Bb]in
+
+# user specific files
+*.user
+*.suo
+*.cache
+*.Cache
+*.userprefs
+
+# other files
+*.ncb
+*.log 
+*.DS_Store
+*.vspscc
+*.vssscc
+thumbs.db 
+Thumbs.db 
+
+# Resharper files
+_ReSharper.*
+*.resharper
+
+# dotCover
+*.dotCover
+
+# Anhk SVN Plugin files
+Ankh.NoLoad
+
+# unit testing.
+Local.testsettings
+*.sdf
+*.testsettings
+*.vsmdi
+TestResults
+test-results
+
+# NUnit
+TestResult.xml
+
+# Test
+test/test-assemblies
+
+# backup
+*.bak
+
+# published
+published
+src/Nextel.Web/Nextel.Web.Publish.xml
+*Publish.xml
+
+#mono files
+*.pidb
+*.resources
+!Nextel.Resources
+
+# BeyondCompare merge files
+*.orig
+
+#Nuget packages
+src/packages
+
+DataBaseMigration/tools
+DataBaseMigration/*.dll
+
+Nextel-DeployPackage.zip
+temp
+
+#Local Files
+src/.vs
+src/UpgradeLog*
+src/Backup*
+*.log
